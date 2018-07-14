@@ -1,0 +1,13 @@
+ 
+ 
+ -- Input  variables  -- 
+
+ Window length             = 2000 milliseconds
+ Input rate for stream A   = 10 events/second
+Stream A Runtime           = 10 seconds
+ # raw events in stream A  = 100
+
+ --- Output data --- 
+ 
+ Total #  of CE            = 90
+ Engine  Runtime           = 11.062 seconds
